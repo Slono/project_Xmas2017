@@ -1,5 +1,5 @@
 # project_Xmas2017
-#This repo is for my Upskilled project Xmas2017
+This repo is for my Upskilled project Xmas2017
 The project is for my assignment with Upskilled training course - Certificate IV in IoT
 The project is written in Python2 code
 The project is built on Raspberry Pi 3B hardware platform using a breadboard, an LCD display, 3 LEDs and a matrix keyboard
